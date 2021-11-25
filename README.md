@@ -2,9 +2,9 @@
 
 This SDK provides API for communicating with `AlphaVault.sol` smart contract.
 
-Contract: `alpha-vaults-contracts/contracts/AlphaVault.sol`
-SDK language: Typescript
-Runtime check: use `io-ts` or `ts-runtime`.
+- Contract: `alpha-vaults-contracts/contracts/AlphaVault.sol`
+- SDK language: Typescript
+- Runtime check: use `io-ts` or `ts-runtime`.
 
 ### Get started
 

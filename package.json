@@ -4,6 +4,8 @@
   "description": "Test SDK for Alpha Vaults smart contract",
   "main": "src/sdk.ts",
   "scripts": {
+    "build": "",
+    "deploy": "",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "ilyavf",
